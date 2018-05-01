@@ -2,7 +2,7 @@
 
 **Alexa skill**
 
-```
+```json
 {
     "interactionModel": {
         "languageModel": {
@@ -153,7 +153,7 @@
 
 **AWS Lambda**
 
-```
+```python
 
 from __future__ import print_function
 
